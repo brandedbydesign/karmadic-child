@@ -1,0 +1,25 @@
+/*
+ Theme Name:   Karmadic Child
+ Theme URI:    https://brandedbydesign.net
+ Description:  Karmadic Child Theme
+ Author:       Brandy F
+ Author URI:   https://brandedbydesign.net
+ Template:     karmadic
+ Version:      1.0s
+ License:      GNU General Public License v3 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  karmadic-child
+*/
+
+a {
+	color: #5b9bd5;
+}
+
+.home .heading {
+	display: none;
+}
+
+#head_right {
+	display:  none;
+}
